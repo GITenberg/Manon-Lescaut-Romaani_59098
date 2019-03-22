@@ -1,0 +1,29 @@
+_repo: Manon-Lescaut-Romaani_59098
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prévost, abbé
+    aliases:
+    - Prevost, abbe
+    - Prevost, Antoine Francois
+    - Prévost, Antoine François, called Prévost d'Exiles
+    birthdate: 1697
+    deathdate: 1763
+    gutenberg_agent_id: '250'
+    url: http://www.gutenberg.org/2009/agents/250
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Pr%C3%A9vost
+description: ''
+gutenberg_issued: '2019-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59098'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Manon Lescaut
+
+  Romaani'
+url: http://www.gutenberg.org/ebooks/59098
